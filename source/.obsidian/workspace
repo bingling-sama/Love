@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/hello-world.md",
+            "file": "about/index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/hello-world.md",
+                "file": "about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "8639e52aa89600a7",
   "lastOpenFiles": [
-    "_posts/hello-world.md",
     "about/index.md",
-    "rusume/index.md"
+    "resume/index.md",
+    "_posts/hello-world.md"
   ]
 }
