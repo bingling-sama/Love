@@ -1,0 +1,18 @@
+{
+    "dir": "ltr",
+    "lang": "zh_cn",
+    "name": "bingling_sama",
+    "short_name": "Booling",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "https://blog.booling.cn/",
+    "background_color": "transparent",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [],
+    "url": "https://blog.booling.cn",
+    "screenshots": []
+}
