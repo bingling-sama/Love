@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "ab0b818d20ba60e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8639e52aa89600a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/hello-world.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "253ae8c658777a60",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ee56912a6e5e13b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cade3dfee0c8cf3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c68bf926ca37e798",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90b98d290e3f0499",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6ecfac3d79f0684",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98920603df3d8834",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/hello-world.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8639e52aa89600a7",
+  "lastOpenFiles": [
+    "_posts/hello-world.md",
+    "about/index.md",
+    "rusume/index.md"
+  ]
+}

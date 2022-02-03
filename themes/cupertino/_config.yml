@@ -12,7 +12,6 @@ nav:
   title: LoveStory
   items:
     Archives: /archives
-    Friends: /friends
     About: /about
     GitHub: https://github.com/bingling-sama/Love
 
@@ -23,7 +22,6 @@ footer:
     Resume: /resume
   About:
     About: /about
-    Friends: /friends
   Me:
     GitHub: https://github.com/bingling-sama
     Email: bingling_sama@qq.com
