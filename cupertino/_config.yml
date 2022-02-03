@@ -1,0 +1,32 @@
+favicon: /favicon.png
+
+manifest: /manifest.json
+
+show_excerpt: false
+
+color_scheme: auto
+
+show_color_scheme_toggle: true
+
+nav:
+  title: LoveStory
+  items:
+    Archives: /archives
+    Friends: /friends
+    About: /about
+    GitHub: https://github.com/bingling-sama/Love
+
+footer:
+  Story:
+    Story: /
+    Archives: /archives
+    Resume: /resume
+  About:
+    About: /about
+    Friends: /friends
+  Me:
+    GitHub: https://github.com/bingling-sama
+    Email: bingling_sama@qq.com
+
+license: CC BY-NC 4.0
+license_link: https://creativecommons.org/licenses/by-nc/4.0
