@@ -13,15 +13,16 @@ nav:
   items:
     Archives: /archives
     About: /about
+    Resume: /resume
     GitHub: https://github.com/bingling-sama/Love
 
 footer:
   Story:
     Story: /
     Archives: /archives
-    Resume: /resume
   About:
     About: /about
+    Resume: /resume
   Me:
     GitHub: https://github.com/bingling-sama
     Email: bingling_sama@qq.com
